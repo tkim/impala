@@ -1,0 +1,1814 @@
+repo_name: tkim/impala
+report_id: f7c6466e36aea5c9a38eed18bf22608c
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-25T14:58:31+00:00'
+requested_by: lskuff
+provider: github
+branch: master
+detected_tools_count: 130
+tools:
+- name: ASP.NET
+  description: An open source web framework for building modern web apps and services
+    with .NET
+  website_url: https://www.asp.net/
+  version: '3.5'
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/thrift-0.9.0/contrib/zeromq/csharp/ThriftZMQ.csproj
+  detection_source: thirdparty/thrift-0.9.0/contrib/zeromq/csharp/ThriftZMQ.csproj
+  last_updated_by: Henry Robinson
+  last_updated_on: 2012-11-26 22:53:02.000000000 Z
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/tkim/impala
+  detection_source: Repo Metadata
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/mongoose/bindings/csharp/example.cs
+  detection_source: thirdparty/mongoose/bindings/csharp/example.cs
+  last_updated_by: Henry Robinson
+  last_updated_on: 2012-07-13 06:48:02.000000000 Z
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/tkim/impala
+  detection_source: Repo Metadata
+- name: Erlang
+  description: A programming language used to build massively scalable soft real-time
+    systems with requirements on high availability
+  website_url: http://www.erlang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1004/cbdf77412da183e43d41c0c0f9a7005a.jpeg
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/thrift-0.9.0/lib/erl/src/thrift_base64_transport.erl
+  detection_source: thirdparty/thrift-0.9.0/lib/erl/src/thrift_base64_transport.erl
+  last_updated_by: Henry Robinson
+  last_updated_on: 2012-11-26 22:53:02.000000000 Z
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/thrift-0.9.0/lib/go/thrift/_testmain.go
+  detection_source: thirdparty/thrift-0.9.0/lib/go/thrift/_testmain.go
+  last_updated_by: Henry Robinson
+  last_updated_on: 2012-11-26 22:53:02.000000000 Z
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/tkim/impala
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/mongoose/examples/html/jquery.js
+  detection_source: thirdparty/mongoose/examples/html/jquery.js
+  last_updated_by: Henry Robinson
+  last_updated_on: 2012-07-13 06:48:02.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/tkim/impala
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/thrift-0.9.0/lib/rb/Gemfile
+  detection_source: thirdparty/thrift-0.9.0/lib/rb/Gemfile
+  last_updated_by: Henry Robinson
+  last_updated_on: 2012-11-26 22:53:02.000000000 Z
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hive-0.10.0-cdh4.3.0/examples/test-plugin/test/cleanup.sql
+  detection_source: thirdparty/hive-0.10.0-cdh4.3.0/examples/test-plugin/test/cleanup.sql
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-25 20:57:50.000000000 Z
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  version: '3.5'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/thrift-0.9.0/contrib/zeromq/csharp/ThriftZMQ.csproj
+  detection_source: thirdparty/thrift-0.9.0/contrib/zeromq/csharp/ThriftZMQ.csproj
+  last_updated_by: Henry Robinson
+  last_updated_on: 2012-11-26 22:53:02.000000000 Z
+- name: Avro
+  description: A data serialization framework
+  website_url: https://avro.apache.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Serialization Frameworks
+  image_url: https://img.stackshare.io/service/4265/avro.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-common/pom.xml
+  detection_source: thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-common/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-25 20:57:50.000000000 Z
+- name: Jersey
+  description: A REST framework that provides a JAX-RS implementation
+  website_url: https://jersey.java.net/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1757/E6ajYzZW_400x400.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: Protobuf
+  description: Google's data interchange format
+  website_url: https://developers.google.com/protocol-buffers/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Serialization Frameworks
+  image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: guava
+  description: Google Core Libraries for Java 6+
+  website_url: https://github.com/google/guava
+  version: 11.0.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Java Tools
+  image_url: https://img.stackshare.io/service/2970/wBjKn0ol.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2012-10-23 01:55:16.000000000 Z
+- name: Apache Derby
+  description: An open source relational database implemented entirely in Java
+  website_url: https://db.apache.org/derby/index.html
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/7309/derby.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: Apache Hive
+  description: Data Warehouse Software for Reading, Writing, and Managing Large Datasets
+  website_url: https://hive.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Big Data Tools
+  image_url: https://img.stackshare.io/service/1911/27eb4217dfd5cb2d579cb56bbcc7b290_400x400.jpeg
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hive-0.10.0-cdh4.3.0/bin/hive-config.sh
+  detection_source: thirdparty/hive-0.10.0-cdh4.3.0/bin/hive-config.sh
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-25 20:57:50.000000000 Z
+- name: HBase
+  description: The Hadoop database, a distributed, scalable, big data store
+  website_url: http://hbase.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1043/HBase-Twitter3.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2012-10-23 01:55:16.000000000 Z
+- name: HSQLDB
+  description: Leading SQL relational database software written in Java
+  website_url: http://hsqldb.org
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/6958/yQ4763oZ_400x400.jpg
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2012-10-23 01:55:16.000000000 Z
+- name: Hadoop
+  description: Open-source software for reliable, scalable, distributed computing
+  website_url: http://hadoop.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1044/elephant_rgb_sq.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Henry Robinson
+  last_updated_on: 2012-11-05 22:50:48.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2012-10-23 01:55:16.000000000 Z
+- name: CMake
+  description: An open-source system that manages the build process
+  website_url: http://www.cmake.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/tkim/impala
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/tkim/impala
+  detection_source: Repo Metadata
+- name: JUnit
+  description: A programmer-oriented testing framework for Java
+  website_url: http://junit.org/
+  version: 4.8.2
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2012-10-23 01:55:16.000000000 Z
+- name: Log4j
+  description: A Java-based logging utility
+  website_url: https://logging.apache.org/log4j/2.x/
+  version: 1.6.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Logging Tools
+  image_url: https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2012-10-23 01:55:16.000000000 Z
+- name: Mockito
+  description: Tasty mocking framework for unit tests in Java
+  website_url: https://site.mockito.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: RSpec
+  description: Behaviour Driven Development for Ruby
+  website_url: https://rspec.info/
+  version: 2.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2539/logo.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/thrift-0.9.0/lib/rb/thrift.gemspec
+  detection_source: thirdparty/thrift-0.9.0/lib/rb/thrift.gemspec
+  last_updated_by: Henry Robinson
+  last_updated_on: 2012-11-26 22:53:02.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/thrift-0.9.0/lib/rb/thrift.gemspec
+  detection_source: thirdparty/thrift-0.9.0/lib/rb/thrift.gemspec
+  last_updated_by: Henry Robinson
+  last_updated_on: 2012-11-26 22:53:02.000000000 Z
+- name: SLF4J
+  description: Simple logging facade for Java
+  website_url: http://slf4j.org/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2012-10-23 01:55:16.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/gflags-2.0/gflags.sln
+  detection_source: thirdparty/gflags-2.0/gflags.sln
+  last_updated_by: Henry Robinson
+  last_updated_on: 2012-11-05 23:33:54.000000000 Z
+- name: Zookeeper
+  description: Because coordinating distributed systems is a Zoo
+  website_url: http://zookeeper.apache.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Open Source Service Discovery
+  image_url: https://img.stackshare.io/service/1528/apache-zookeeper.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/tkim/impala
+  detection_source: Repo Metadata
+- name: ant-contrib:ant-contrib
+  description: A collection of tasks
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Henry Robinson
+  last_updated_on: 2012-10-30 05:46:38.000000000 Z
+- name: asm:asm
+  description: Artifactory auto generated POM
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-metastore/pom.xml
+  detection_source: thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-metastore/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-25 20:57:50.000000000 Z
+- name: com.google.guava:guava
+  description: Guava is a suite of core and expanded libraries that include utility
+    classes
+  version: 11.0.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2012-10-23 01:55:16.000000000 Z
+  vulnerabilities:
+  - name: Guava vulnerable to insecure use of temporary directory
+    cve_id: CVE-2023-2976
+    cve_url: https://github.com/advisories/GHSA-7g45-4rm6-3mm3
+    detected_date: Jun 15
+    severity: moderate
+    first_patched: 32.0.0-android
+  - name: Denial of Service in Google Guava
+    cve_id: CVE-2018-10237
+    cve_url: https://github.com/advisories/GHSA-mvr2-9pj6-7w5j
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 24.1.1-android
+  - name: Information Disclosure in Guava
+    cve_id: CVE-2020-8908
+    cve_url: https://github.com/advisories/GHSA-5mg8-w23w-74h3
+    detected_date: Aug 22
+    severity: low
+    first_patched: 32.0.0-android
+- name: com.google.protobuf:protobuf-java
+  description: Core Protocol Buffers library
+  license: BSD-1-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: com.googlecode.javaewah:JavaEWAH
+  description: The bit array data structure is implemented in Java as the BitSet class
+  version: 0.3.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-exec/pom.xml
+  detection_source: thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-exec/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-25 20:57:50.000000000 Z
+- name: com.sun.jersey:jersey-core
+  version: '1.8'
+  license: CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: com.sun.jersey:jersey-json
+  version: '1.8'
+  license: CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: com.sun.jersey:jersey-server
+  version: '1.8'
+  license: CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: com.yammer.metrics:metrics-core
+  description: Artifactory auto generated POM
+  version: 2.1.2
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: commons-cli:commons-cli
+  description: Apache Commons CLI provides a simple API for presenting
+  version: '1.2'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2012-10-23 01:55:16.000000000 Z
+- name: commons-codec:commons-codec
+  description: The Apache Commons Codec package contains simple encoder and decoders
+    for various formats such as Base64 and Hexadecimal
+  version: '1.4'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: commons-collections:commons-collections
+  description: Types that extend and augment the Java Collections Framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-exec/pom.xml
+  detection_source: thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-exec/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-25 20:57:50.000000000 Z
+- name: commons-configuration:commons-configuration
+  description: Tools to assist in the reading of configuration/preferences files in
+    various formats
+  version: '1.6'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: commons-dbcp:commons-dbcp
+  description: Commons Database Connection Pooling
+  version: '1.4'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2012-10-23 01:55:16.000000000 Z
+- name: commons-httpclient:commons-httpclient
+  description: The HttpClient component supports the client-side of RFC 1945
+  version: '3.1'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: commons-io:commons-io
+  description: The Apache Commons IO library contains utility classes
+  version: '2.1'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+  vulnerabilities:
+  - name: Path Traversal and Improper Input Validation in Apache Commons IO
+    cve_id: CVE-2021-29425
+    cve_url: https://github.com/advisories/GHSA-gwrp-pvrq-jmwv
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: '2.7'
+- name: commons-lang:commons-lang
+  description: Commons Lang
+  version: '2.5'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: commons-logging:commons-logging
+  description: Apache Commons Logging is a thin adapter allowing configurable bridging
+    to other
+  version: 1.1.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: commons-logging:commons-logging-api
+  description: 'Version 99.0-does-not-exist is a dummy implementation with actually
+    does nothing, and most of all: it has no dependencies'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-beeline/pom.xml
+  detection_source: thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-beeline/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-25 20:57:50.000000000 Z
+- name: commons-pool:commons-pool
+  description: Commons Object Pooling Library
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-metastore/pom.xml
+  detection_source: thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-metastore/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-25 20:57:50.000000000 Z
+- name: javax.jdo:jdo2-api
+  description: The Java Data Objects 2
+  version: '2.3'
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2012-10-23 01:55:16.000000000 Z
+- name: javax.xml.bind:jaxb-api
+  description: JAXB
+  version: '2.1'
+  license: CDDL-1.1,CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: jline:jline
+  description: Jline 2.x
+  license: DSDP
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-beeline/pom.xml
+  detection_source: thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-beeline/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-25 20:57:50.000000000 Z
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  version: 4.8.2
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2012-10-23 01:55:16.000000000 Z
+  vulnerabilities:
+  - name: TemporaryFolder on unix-like systems does not limit access to created files
+    cve_id: CVE-2020-15250
+    cve_url: https://github.com/advisories/GHSA-269g-pwp5-87pp
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.13.1
+- name: log4j:log4j
+  description: Apache Log4j 1.2
+  version: 1.2.17
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+  vulnerabilities:
+  - name: SQL Injection in Log4j 1.2.x
+    cve_id: CVE-2022-23305
+    cve_url: https://github.com/advisories/GHSA-65fg-84f6-3jq3
+    detected_date: Jan 22
+    severity: critical
+    first_patched: 
+  - name: Deserialization of Untrusted Data in Apache Log4j
+    cve_id: CVE-2022-23307
+    cve_url: https://github.com/advisories/GHSA-f7vh-qwp3-x37m
+    detected_date: Nov 26
+    severity: critical
+    first_patched: 
+  - name: Deserialization of Untrusted Data in Log4j
+    cve_id: CVE-2019-17571
+    cve_url: https://github.com/advisories/GHSA-2qrg-x229-3v8q
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 
+  - name: Deserialization of Untrusted Data in Log4j 1.x
+    cve_id: CVE-2022-23302
+    cve_url: https://github.com/advisories/GHSA-w9p3-5cr8-m3jj
+    detected_date: Jan 22
+    severity: high
+    first_patched: 
+  - name: JMSAppender in Log4j 1.2 is vulnerable to deserialization of untrusted data
+    cve_id: CVE-2021-4104
+    cve_url: https://github.com/advisories/GHSA-fp5r-v3w9-4333
+    detected_date: Dec 15
+    severity: high
+    first_patched: 
+- name: org.antlr:antlr
+  description: The ANTLR 3 tool
+  license: LAL-1.3
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-exec/pom.xml
+  detection_source: thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-exec/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-25 20:57:50.000000000 Z
+- name: org.antlr:antlr-runtime
+  description: A framework for constructing recognizers
+  version: '3.3'
+  license: LAL-1.3
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.ant:ant-nodeps
+  description: Contains all the optional tasks and types which do not have particular
+    dependencies
+  version: 1.8.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.avro:avro
+  description: Avro core components
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-common/pom.xml
+  detection_source: thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-common/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-25 20:57:50.000000000 Z
+- name: org.apache.avro:avro-mapred
+  description: An org.apache.hadoop.mapred compatible API for using Avro Serializatin
+    in Hadoop
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-serde/pom.xml
+  detection_source: thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-serde/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-25 20:57:50.000000000 Z
+- name: org.apache.commons:commons-compress
+  description: Apache Commons Compress software defines an API for working with compression
+    and archive formats
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-common/pom.xml
+  detection_source: thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-common/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-25 20:57:50.000000000 Z
+- name: org.apache.commons:commons-math
+  description: The Math project is a library of lightweight
+  version: '2.1'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: org.apache.derby:derby
+  description: Contains the core Apache Derby database engine
+  version: 10.4.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+  vulnerabilities:
+  - name: Improper Restriction of XML External Entity Reference in Apace Derby
+    cve_id: CVE-2015-1832
+    cve_url: https://github.com/advisories/GHSA-wr69-g62g-2r9h
+    detected_date: Jul 7
+    severity: critical
+    first_patched: 10.12.1.1
+  - name: 'Apache Derby: LDAP injection vulnerability in authenticator'
+    cve_id: CVE-2022-46337
+    cve_url: https://github.com/advisories/GHSA-rcjc-c4pj-xxrp
+    detected_date: Nov 21
+    severity: critical
+    first_patched: 10.14.3
+  - name: Use of Password Hash With Insufficient Computational Effort in Apache Derby
+    cve_id: CVE-2009-4269
+    cve_url: https://github.com/advisories/GHSA-fh32-35w2-rxcc
+    detected_date: Sep 27
+    severity: moderate
+    first_patched: 10.6.1.0
+  - name: Improper Access Control in Apache Derby
+    cve_id: CVE-2018-1313
+    cve_url: https://github.com/advisories/GHSA-42xw-p62x-hwcf
+    detected_date: Jun 30
+    severity: moderate
+    first_patched: 10.14.2.0
+- name: org.apache.hadoop:hadoop-annotations
+  description: Apache Hadoop Annotations
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/sentry-1.1.0-SNAPSHOT/sentry-tests/pom.xml
+  detection_source: thirdparty/sentry-1.1.0-SNAPSHOT/sentry-tests/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.hadoop:hadoop-auth
+  description: Apache Hadoop Auth - Java HTTP SPNEGO
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.hadoop:hadoop-client
+  description: Apache Hadoop Client
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/sentry-1.1.0-SNAPSHOT/sentry-binding-hive/pom.xml
+  detection_source: thirdparty/sentry-1.1.0-SNAPSHOT/sentry-binding-hive/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.hadoop:hadoop-common
+  description: Apache Hadoop Common
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.hadoop:hadoop-hdfs
+  description: Apache Hadoop HDFS
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.hadoop:hadoop-mapreduce-client-common
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/sentry-1.1.0-SNAPSHOT/sentry-tests/pom.xml
+  detection_source: thirdparty/sentry-1.1.0-SNAPSHOT/sentry-tests/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.hadoop:hadoop-mapreduce-client-core
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.hadoop:hadoop-mapreduce-client-jobclient
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/sentry-1.1.0-SNAPSHOT/sentry-tests/pom.xml
+  detection_source: thirdparty/sentry-1.1.0-SNAPSHOT/sentry-tests/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.hadoop:hadoop-mapreduce-client-shuffle
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/sentry-1.1.0-SNAPSHOT/sentry-tests/pom.xml
+  detection_source: thirdparty/sentry-1.1.0-SNAPSHOT/sentry-tests/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.hadoop:hadoop-minicluster
+  description: Apache Hadoop Mini-Cluster
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/sentry-1.1.0-SNAPSHOT/sentry-provider-file/pom.xml
+  detection_source: thirdparty/sentry-1.1.0-SNAPSHOT/sentry-provider-file/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.hadoop:hadoop-yarn-api
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/sentry-1.1.0-SNAPSHOT/sentry-tests/pom.xml
+  detection_source: thirdparty/sentry-1.1.0-SNAPSHOT/sentry-tests/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.hadoop:hadoop-yarn-common
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/sentry-1.1.0-SNAPSHOT/sentry-tests/pom.xml
+  detection_source: thirdparty/sentry-1.1.0-SNAPSHOT/sentry-tests/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.hadoop:hadoop-yarn-server-common
+  description: Apache Hadoop Project POM
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/sentry-1.1.0-SNAPSHOT/sentry-tests/pom.xml
+  detection_source: thirdparty/sentry-1.1.0-SNAPSHOT/sentry-tests/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.hadoop:hadoop-yarn-server-nodemanager
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/sentry-1.1.0-SNAPSHOT/sentry-tests/pom.xml
+  detection_source: thirdparty/sentry-1.1.0-SNAPSHOT/sentry-tests/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.hbase:hbase
+  description: "Apache HBase\x99 is the Hadoop database"
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.hive:hive-cli
+  description: Hive is a data warehouse infrastructure built on top of Hadoop see
+    http://wiki.apache.org/hadoop/Hive
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-hwi/pom.xml
+  detection_source: thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-hwi/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-25 20:57:50.000000000 Z
+- name: org.apache.hive:hive-common
+  description: Hive is a data warehouse infrastructure built on top of Hadoop see
+    http://wiki.apache.org/hadoop/Hive
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.hive:hive-exec
+  description: Hive is a data warehouse infrastructure built on top of Hadoop see
+    http://wiki.apache.org/hadoop/Hive
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.hive:hive-jdbc
+  description: Hive is a data warehouse infrastructure built on top of Hadoop see
+    http://wiki.apache.org/hadoop/Hive
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.hive:hive-metastore
+  description: Hive is a data warehouse infrastructure built on top of Hadoop see
+    http://wiki.apache.org/hadoop/Hive
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.hive:hive-serde
+  description: Hive is a data warehouse infrastructure built on top of Hadoop see
+    http://wiki.apache.org/hadoop/Hive
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.hive:hive-service
+  description: The Apache Software Foundation provides support for the Apache community
+    of open-source software projects
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.hive:hive-shims
+  description: Hive is a data warehouse infrastructure built on top of Hadoop see
+    http://wiki.apache.org/hadoop/Hive
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.shiro:shiro-core
+  version: 1.2.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+  vulnerabilities:
+  - name: Improper Authentication in Apache Shiro
+    cve_id: CVE-2020-11989
+    cve_url: https://github.com/advisories/GHSA-72w9-fcj5-3fcg
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 1.5.3
+  - name: Apache Shiro Authentication Bypass vulnerability
+    cve_id: CVE-2022-40664
+    cve_url: https://github.com/advisories/GHSA-45x9-q6vj-cqgq
+    detected_date: Oct 13
+    severity: critical
+    first_patched: 1.10.0
+  - name: Improper Authorization in Apache Shiro
+    cve_id: CVE-2022-32532
+    cve_url: https://github.com/advisories/GHSA-4cf5-xmhp-3xj7
+    detected_date: Jul 7
+    severity: critical
+    first_patched: 1.9.1
+  - name: Apache Shiro vulnerable to a specially crafted HTTP request causing an authentication
+      bypass
+    cve_id: CVE-2021-41303
+    cve_url: https://github.com/advisories/GHSA-f6jp-j6w3-w9hm
+    detected_date: Sep 21
+    severity: critical
+    first_patched: 1.8.0
+  - name: Improper Authentication in Apache Shiro
+    cve_id: CVE-2020-1957
+    cve_url: https://github.com/advisories/GHSA-26gr-cvq3-qxgf
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 1.5.2
+  - name: Improper input validation in Apache Shiro
+    cve_id: CVE-2019-12422
+    cve_url: https://github.com/advisories/GHSA-r679-m633-g7wc
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.4.2
+  - name: Improper Access Control in Apache Shiro
+    cve_id: CVE-2016-4437
+    cve_url: https://github.com/advisories/GHSA-p836-389h-j692
+    detected_date: Aug 16
+    severity: high
+    first_patched: 1.2.5
+  - name: Authentication bypass in Apache Shiro
+    cve_id: CVE-2020-13933
+    cve_url: https://github.com/advisories/GHSA-2vgm-wxr3-6w2j
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.6.0
+  - name: Apache Shiro vulnerable to path traversal
+    cve_id: CVE-2023-46749
+    cve_url: https://github.com/advisories/GHSA-jc7h-c423-mpjc
+    detected_date: Jan 17
+    severity: moderate
+    first_patched: 1.13.0
+- name: org.apache.thrift:libfb303
+  description: Thrift is a software framework for scalable cross-language services
+    development
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.thrift:libthrift
+  description: Thrift is a software framework for scalable cross-language services
+    development
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.apache.velocity:velocity
+  description: Apache Velocity is a general purpose template engine
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-anttasks/pom.xml
+  detection_source: thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-anttasks/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-25 20:57:50.000000000 Z
+- name: org.apache.zookeeper:zookeeper
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: org.codehaus.jackson:jackson-core-asl
+  description: Jackson is a high-performance JSON processor
+  version: 1.8.8
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: org.codehaus.jackson:jackson-jaxrs
+  description: Jax-RS provider for JSON content type
+  version: 1.8.8
+  license: LGPL-3.0-only
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: org.codehaus.jackson:jackson-mapper-asl
+  description: Data Mapper package is a high-performance data binding package built
+    on Jackson JSON processor
+  version: 1.8.8
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+  vulnerabilities:
+  - name: Deserialization of Untrusted Data in org.codehaus.jackson:jackson-mapper-asl
+    cve_id: CVE-2019-10202
+    cve_url: https://github.com/advisories/GHSA-c27h-mcmw-48hv
+    detected_date: Feb 21
+    severity: critical
+    first_patched: 
+  - name: Improper Restriction of XML External Entity Reference in jackson-mapper-asl
+    cve_id: CVE-2019-10172
+    cve_url: https://github.com/advisories/GHSA-r6j9-8759-g62w
+    detected_date: Aug 22
+    severity: high
+    first_patched: 
+- name: org.codehaus.jackson:jackson-xc
+  description: Extensions that provide interoperability support for Jackson JSON processor's
+    data binding functionality
+  version: 1.8.8
+  license: LGPL-3.0-only
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: org.datanucleus:datanucleus-core
+  description: DataNucleus Core provides the primary components of a heterogenous
+    Java persistence solution
+  version: 2.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.datanucleus:datanucleus-rdbms
+  description: Plugin for DataNucleus providing persistence to RDBMS datastores
+  version: 2.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.easytesting:fest-reflect
+  description: Fluent Interface that simplifies usage of Java Reflection
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/sentry-1.1.0-SNAPSHOT/sentry-tests/pom.xml
+  detection_source: thirdparty/sentry-1.1.0-SNAPSHOT/sentry-tests/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.hsqldb:hsqldb
+  description: HSQLDB - Lightweight 100% Java SQL Database Engine
+  version: 2.2.8
+  license: Zed,TMate
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+  vulnerabilities:
+  - name: HyperSQL DataBase vulnerable to remote code execution when processing untrusted
+      input
+    cve_id: CVE-2022-41853
+    cve_url: https://github.com/advisories/GHSA-77xx-rxvh-q682
+    detected_date: Oct 7
+    severity: critical
+    first_patched: 2.7.1
+- name: org.jamon:jamon-runtime
+  description: Jamon runtime support classes
+  version: 2.3.1
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: org.jruby:jruby-complete
+  description: JRuby is the effort to recreate the Ruby
+  version: 1.6.5
+  license: GPL-2.0,LGPL-2.1,EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: org.json:json
+  description: JSON is a light-weight, language independent, data interchange format
+  license: JSON
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-exec/pom.xml
+  detection_source: thirdparty/hive-0.10.0-cdh4.3.0/src/cloudera/maven-packaging/hive-exec/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-25 20:57:50.000000000 Z
+- name: org.mockito:mockito-all
+  description: Mock objects library for java
+  version: 1.8.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: org.mortbay.jetty:jetty
+  description: Jetty server core
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: org.mortbay.jetty:jetty-util
+  description: Utility classes for Jetty
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: org.mortbay.jetty:jsp-2.1
+  description: JSP2.1 Jasper implementation from Glassfish
+  version: 6.1.14
+  license: CDDL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: org.mortbay.jetty:jsp-api-2.1
+  description: JSP2.1 API
+  version: 6.1.14
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: org.mortbay.jetty:servlet-api-2.5
+  description: Servlet Specification 2.5 API
+  version: 6.1.14
+  license: CDDL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: org.slf4j:slf4j-api
+  description: The slf4j API
+  version: 1.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: org.slf4j:slf4j-log4j12
+  description: SLF4J LOG4J-12 Binding
+  version: 1.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-07-16 23:45:51.000000000 Z
+- name: postgresql:postgresql
+  description: The PostgreSQL Driver JDBC4
+  version: '9.0'
+  license: DSDP
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/fe/pom.xml
+  detection_source: fe/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2012-10-23 01:55:16.000000000 Z
+- name: stax:stax-api
+  description: StAX API is the standard java XML processing API defined by JSR-173
+  version: 1.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: tomcat:jasper-compiler
+  description: The Apache Software Foundation provides support for the Apache community
+    of open-source software projects
+  version: 5.5.23
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: tomcat:jasper-runtime
+  description: The Apache Software Foundation provides support for the Apache community
+    of open-source software projects
+  version: 5.5.23
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  detection_source: thirdparty/hbase-0.94.6-cdh4.3.0/pom.xml
+  last_updated_by: Lenni Kuff
+  last_updated_on: 2013-05-26 17:06:28.000000000 Z
+- name: HTTP
+  description: Haskell HTTP package
+  package_url: http://hackage.haskell.org/HTTP
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/hackage/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/thrift-0.9.0/lib/hs/Thrift.cabal
+  detection_source: thirdparty/thrift-0.9.0/lib/hs/Thrift.cabal
+  last_updated_by: Henry Robinson
+  last_updated_on: 2012-11-26 22:53:02.000000000 Z
+- name: base
+  package_url: http://hackage.haskell.org/base
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/hackage/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/thrift-0.9.0/lib/hs/Thrift.cabal
+  detection_source: thirdparty/thrift-0.9.0/lib/hs/Thrift.cabal
+  last_updated_by: Henry Robinson
+  last_updated_on: 2012-11-26 22:53:02.000000000 Z
+- name: binary
+  description: Efficient
+  package_url: http://hackage.haskell.org/binary
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/hackage/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/thrift-0.9.0/lib/hs/Thrift.cabal
+  detection_source: thirdparty/thrift-0.9.0/lib/hs/Thrift.cabal
+  last_updated_by: Henry Robinson
+  last_updated_on: 2012-11-26 22:53:02.000000000 Z
+- name: bytestring
+  description: An efficient compact
+  package_url: http://hackage.haskell.org/bytestring
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/hackage/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/thrift-0.9.0/lib/hs/Thrift.cabal
+  detection_source: thirdparty/thrift-0.9.0/lib/hs/Thrift.cabal
+  last_updated_by: Henry Robinson
+  last_updated_on: 2012-11-26 22:53:02.000000000 Z
+- name: containers
+  description: Assorted concrete container types
+  package_url: http://hackage.haskell.org/containers
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/hackage/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/thrift-0.9.0/tutorial/hs/ThriftTutorial.cabal
+  detection_source: thirdparty/thrift-0.9.0/tutorial/hs/ThriftTutorial.cabal
+  last_updated_by: Henry Robinson
+  last_updated_on: 2012-11-26 22:53:02.000000000 Z
+- name: ghc-prim
+  package_url: http://hackage.haskell.org/ghc-prim
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/hackage/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/thrift-0.9.0/lib/hs/Thrift.cabal
+  detection_source: thirdparty/thrift-0.9.0/lib/hs/Thrift.cabal
+  last_updated_by: Henry Robinson
+  last_updated_on: 2012-11-26 22:53:02.000000000 Z
+- name: hashable
+  description: |-
+    This package defines a class, Hashable, for types that
+    can be converted to a hash value
+  package_url: http://hackage.haskell.org/hashable
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/hackage/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/thrift-0.9.0/lib/hs/Thrift.cabal
+  detection_source: thirdparty/thrift-0.9.0/lib/hs/Thrift.cabal
+  last_updated_by: Henry Robinson
+  last_updated_on: 2012-11-26 22:53:02.000000000 Z
+- name: network
+  description: |-
+    This package provides a low-level networking interface.
+
+    Other packages provide higher level interfaces:
+
+    connection
+
+    hookup
+
+    network-simple
+
+    network seeks to provide a cross-pl...
+  package_url: http://hackage.haskell.org/network
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/hackage/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/thrift-0.9.0/lib/hs/Thrift.cabal
+  detection_source: thirdparty/thrift-0.9.0/lib/hs/Thrift.cabal
+  last_updated_by: Henry Robinson
+  last_updated_on: 2012-11-26 22:53:02.000000000 Z
+- name: text
+  description: An efficient packed, immutable Unicode text type
+  package_url: http://hackage.haskell.org/text
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/hackage/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/thrift-0.9.0/lib/hs/Thrift.cabal
+  detection_source: thirdparty/thrift-0.9.0/lib/hs/Thrift.cabal
+  last_updated_by: Henry Robinson
+  last_updated_on: 2012-11-26 22:53:02.000000000 Z
+- name: unordered-containers
+  description: Efficient hashing-based container types
+  package_url: http://hackage.haskell.org/unordered-containers
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/hackage/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/thrift-0.9.0/lib/hs/Thrift.cabal
+  detection_source: thirdparty/thrift-0.9.0/lib/hs/Thrift.cabal
+  last_updated_by: Henry Robinson
+  last_updated_on: 2012-11-26 22:53:02.000000000 Z
+- name: vector
+  description: An efficient implementation of Int-indexed arrays
+  package_url: http://hackage.haskell.org/vector
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/hackage/image.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/thrift-0.9.0/lib/hs/Thrift.cabal
+  detection_source: thirdparty/thrift-0.9.0/lib/hs/Thrift.cabal
+  last_updated_by: Henry Robinson
+  last_updated_on: 2012-11-26 22:53:02.000000000 Z
+- name: mongrel
+  description: A small fast HTTP library and server that runs Rails
+  package_url: https://rubygems.org/mongrel
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19151/default_9d2ac24c039c07e044ca9c0f804f595389a6b281.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/thrift-0.9.0/lib/rb/thrift.gemspec
+  detection_source: thirdparty/thrift-0.9.0/lib/rb/thrift.gemspec
+  last_updated_by: Henry Robinson
+  last_updated_on: 2012-11-26 22:53:02.000000000 Z
+- name: rake
+  description: Rake is a Make-like program implemented in Ruby
+  package_url: https://rubygems.org/rake
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18812/default_f582e4648f4682adb72d2b201218cda7f8e894ac.png
+  detection_source_url: https://github.com/tkim/impala/blob/master/thirdparty/thrift-0.9.0/lib/rb/thrift.gemspec
+  detection_source: thirdparty/thrift-0.9.0/lib/rb/thrift.gemspec
+  last_updated_by: Henry Robinson
+  last_updated_on: 2012-11-26 22:53:02.000000000 Z
